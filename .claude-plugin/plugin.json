@@ -1,0 +1,19 @@
+{
+  "name": "engineering-skills",
+  "description": "Team engineering skills: coredump analysis, debugging techniques, and platform-specific patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "junguo-you"
+  },
+  "homepage": "https://github.com/junguo-you/engineering-skills",
+  "repository": "https://github.com/junguo-you/engineering-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "coredump",
+    "debugging",
+    "aarch64",
+    "shared-memory",
+    "gdb"
+  ]
+}
